@@ -16,3 +16,6 @@ turns into
 
 **Requirements:**
 Python3, Windows
+
+**Standalone Repository of**
+https://github.com/ishaan-kapoor/batch-obfuscator-made-in-python
